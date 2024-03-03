@@ -12,3 +12,6 @@ Update the pipeline
 Update the main.py
 Update the dvc.yaml
 
+
+
+767397945258.dkr.ecr.us-east-1.amazonaws.com/cnnclassification
